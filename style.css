@@ -1,0 +1,42 @@
+.item{
+display: flex;
+justify-content: space-between;
+margin-left: 99px;
+font-family: Playfair Display;
+font-size: 14;
+}
+.conteiner{
+    display: flex;
+}
+.section{
+    display: flex;
+}
+.nav-list{
+    display: flex;
+    margin-left: 215px; 
+    fo
+}
+.section2{
+    display: flex;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    font-family: Playfair Display;
+}
+.photos{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 148px;
+    font-family: Playfair Display;
+}
+.photos2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 148px;
+    font-family: Playfair Display;
+}
+.title{
+    font-family: Playfair Display;
+    font-size: 30px;
+}
